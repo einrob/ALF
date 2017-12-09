@@ -615,7 +615,7 @@ I am eyeballing the source and destination points to generate a good looking bir
 - The lane is 3.7 m wide 
 - The dashed lines are 3m long 
 
-Its easy to get the line width right and its a little bit harder to geet the height of the rectangle right. According to the number of dashes the birdeye view should have about 21m lookahead. 
+Its easy to get the line width right and its a little bit harder to get the height of the rectangle right. 
 
 
 ```python
