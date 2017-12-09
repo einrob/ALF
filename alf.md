@@ -1414,7 +1414,14 @@ white_clip = clip1.fl_image(pipeline) #NOTE: this function expects color images!
     Wall time: 3min 5s
 
 
-## Project video processing 
+
+## Processed video 
+
+Please find the processed video on my youtube channel: 
+
+https://youtu.be/vtxNnilhgAA
+
+## Filtering results 
 
 The plots in the follwing section show the filter result on the polynomial coefficients A,B and C of the left and right line. 
 
