@@ -235,7 +235,7 @@ plot_compare(example_image, undistorted, "distorted original image", "undistored
 
 
 
-![png](output_5_1.png)
+![png](./output_images/output_5_1.png)
 
 
 ## Image pipeline implementation 
@@ -512,63 +512,63 @@ plot_compare(combined_binary_dilate, combined_binary_erode, "Combined 1.Dilated"
 ```
 
 
-![png](output_9_0.png)
+![png](./output_images/output_9_0.png)
 
 
 
-![png](output_9_1.png)
+![png](./output_images/output_9_1.png)
 
 
 
-![png](output_9_2.png)
+![png](./output_images/output_9_2.png)
 
 
 
-![png](output_9_3.png)
+![png](./output_images/output_9_3.png)
 
 
 
-![png](output_9_4.png)
+![png](./output_images/output_9_4.png)
 
 
 
-![png](output_9_5.png)
+![png](./output_images/output_9_5.png)
 
 
 
-![png](output_9_6.png)
+![png](./output_images/output_9_6.png)
 
 
 
-![png](output_9_7.png)
+![png](./output_images/output_9_7.png)
 
 
 
-![png](output_9_8.png)
+![png](./output_images/output_9_8.png)
 
 
 
-![png](output_9_9.png)
+![png](./output_images/output_9_9.png)
 
 
 
-![png](output_9_10.png)
+![png](./output_images/output_9_10.png)
 
 
 
-![png](output_9_11.png)
+![png](./output_images/output_9_11.png)
 
 
 
-![png](output_9_12.png)
+![png](./output_images/output_9_12.png)
 
 
 
-![png](output_9_13.png)
+![png](./output_images/output_9_13.png)
 
 
 
-![png](output_9_14.png)
+![png](./output_images/output_9_14.png)
 
 
 I ended up using a combination of only the thresholded Sobel gradient in X direction. This combination yields in a quite good result. Later only the lower half of the image is going to be used to segment the lane lines, so I do not have to care about the upper half of the image. 
@@ -642,7 +642,7 @@ plt.show()
 ```
 
 
-![png](output_13_0.png)
+![png](./output_images/output_13_0.png)
 
 
 ### Pipeline functions 
@@ -1326,15 +1326,15 @@ plt.imshow(output)
 ```
 
 
-![png](output_19_0.png)
+![png](./output_images/output_19_0.png)
 
 
 
-![png](output_19_1.png)
+![png](./output_images/output_19_1.png)
 
 
 
-![png](output_19_2.png)
+![png](./output_images/output_19_2.png)
 
 
     INIT
@@ -1342,11 +1342,11 @@ plt.imshow(output)
 
 
 
-![png](output_19_4.png)
+![png](./output_images/output_19_4.png)
 
 
 
-![png](output_19_5.png)
+![png](./output_images/output_19_5.png)
 
 
 
@@ -1357,7 +1357,7 @@ plt.imshow(output)
 
 
 
-![png](output_19_7.png)
+![png](./output_images/output_19_7.png)
 
 
 ## Project video processing 
@@ -1486,27 +1486,27 @@ plt.show()
 ```
 
 
-![png](output_23_0.png)
+![png](./output_images/output_23_0.png)
 
 
 
-![png](output_23_1.png)
+![png](./output_images/output_23_1.png)
 
 
 
-![png](output_23_2.png)
+![png](./output_images/output_23_2.png)
 
 
 
-![png](output_23_3.png)
+![png](./output_images/output_23_3.png)
 
 
 
-![png](output_23_4.png)
+![png](./output_images/output_23_4.png)
 
 
 
-![png](output_23_5.png)
+![png](./output_images/output_23_5.png)
 
 
 The next section shows plots on the curvature change and curvature history of the estimated lines after filtering. 
@@ -1576,11 +1576,11 @@ plt.show()
 
 
 
-![png](output_25_1.png)
+![png](./output_images/output_25_1.png)
 
 
 
-![png](output_25_2.png)
+![png](./output_images/output_25_2.png)
 
 
 ## Discussion 
