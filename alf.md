@@ -14,8 +14,9 @@ Steps that have to be performed:
 - Color/Gradient segmentation 
 - Polynomal fitting
 - Lane tracking 
-- Visualization (mostly provided by the course)
+- Visualization 
 
+Large parts of the code are provided by the udacity course section to this project of the Self Driving Car Nanodegree Program.https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013 
 
 
 ### Library import and helper functions 
